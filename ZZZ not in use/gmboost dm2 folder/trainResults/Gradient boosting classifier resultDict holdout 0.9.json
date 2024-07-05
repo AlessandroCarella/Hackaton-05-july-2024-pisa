@@ -1,0 +1,578 @@
+{
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.10868578100674622,
+        "precision": 0.13090782131906345,
+        "recall": 0.1145945573607606,
+        "f1Score": 0.09380366751289562
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.10868578100674622,
+        "precision": 0.13090782131906345,
+        "recall": 0.1145945573607606,
+        "f1Score": 0.09380366751289562
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.10867466083475423,
+        "precision": 0.11314533518147632,
+        "recall": 0.11479939220144568,
+        "f1Score": 0.07317190206105381
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.10867466083475423,
+        "precision": 0.11314533518147632,
+        "recall": 0.11479939220144568,
+        "f1Score": 0.07317190206105381
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11173085477055378,
+        "precision": 0.12192637500493411,
+        "recall": 0.11785551887028264,
+        "f1Score": 0.09765584354795015
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11173085477055378,
+        "precision": 0.12192637500493411,
+        "recall": 0.11785551887028264,
+        "f1Score": 0.09765584354795015
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.10989324634887687,
+        "precision": 0.10483001006351489,
+        "recall": 0.1152937677550151,
+        "f1Score": 0.07732109699004089
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.10989324634887687,
+        "precision": 0.10483001006351489,
+        "recall": 0.1152937677550151,
+        "f1Score": 0.07732109699004089
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.10868578100674622,
+        "precision": 0.13094327741928216,
+        "recall": 0.1145945573607606,
+        "f1Score": 0.09382464662976131
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.10868578100674622,
+        "precision": 0.13094327741928216,
+        "recall": 0.1145945573607606,
+        "f1Score": 0.09382464662976131
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.10867466083475423,
+        "precision": 0.11314533518147632,
+        "recall": 0.11479939220144568,
+        "f1Score": 0.07317190206105381
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.10867466083475423,
+        "precision": 0.11314533518147632,
+        "recall": 0.11479939220144568,
+        "f1Score": 0.07317190206105381
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11173085477055378,
+        "precision": 0.12192637500493411,
+        "recall": 0.11785551887028264,
+        "f1Score": 0.09765584354795015
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11173085477055378,
+        "precision": 0.12192637500493411,
+        "recall": 0.11785551887028264,
+        "f1Score": 0.09765584354795015
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.10989324634887687,
+        "precision": 0.10483001006351489,
+        "recall": 0.1152937677550151,
+        "f1Score": 0.07732109699004089
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.10989324634887687,
+        "precision": 0.10483001006351489,
+        "recall": 0.1152937677550151,
+        "f1Score": 0.07732109699004089
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.10989695307287421,
+        "precision": 0.12337191303953288,
+        "recall": 0.11314680112525406,
+        "f1Score": 0.09826125969588902
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.10989695307287421,
+        "precision": 0.12337191303953288,
+        "recall": 0.11314680112525406,
+        "f1Score": 0.09826125969588902
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11293461338868709,
+        "precision": 0.10671797479634251,
+        "recall": 0.11737650634918455,
+        "f1Score": 0.07975334721910052
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11293461338868709,
+        "precision": 0.10671797479634251,
+        "recall": 0.11737650634918455,
+        "f1Score": 0.07975334721910052
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11477314849136336,
+        "precision": 0.12142429418987773,
+        "recall": 0.11773269433570151,
+        "f1Score": 0.10308555985943661
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11477314849136336,
+        "precision": 0.12142429418987773,
+        "recall": 0.11773269433570151,
+        "f1Score": 0.10308555985943661
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11050022240343985,
+        "precision": 0.10338059889101003,
+        "recall": 0.11487783875024438,
+        "f1Score": 0.08325248106948584
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11050022240343985,
+        "precision": 0.10338059889101003,
+        "recall": 0.11487783875024438,
+        "f1Score": 0.08325248106948584
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11141948995477798,
+        "precision": 0.12451376680421089,
+        "recall": 0.11486810049148097,
+        "f1Score": 0.09940170044989657
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11141948995477798,
+        "precision": 0.12451376680421089,
+        "recall": 0.11486810049148097,
+        "f1Score": 0.09940170044989657
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11263066202090592,
+        "precision": 0.107086749654799,
+        "recall": 0.11697907045174864,
+        "f1Score": 0.08015304355116959
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11263066202090592,
+        "precision": 0.107086749654799,
+        "recall": 0.11697907045174864,
+        "f1Score": 0.08015304355116959
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11477314849136336,
+        "precision": 0.12142429418987773,
+        "recall": 0.11773269433570151,
+        "f1Score": 0.10308555985943661
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11477314849136336,
+        "precision": 0.12142429418987773,
+        "recall": 0.11773269433570151,
+        "f1Score": 0.10308555985943661
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11050022240343985,
+        "precision": 0.10338059889101003,
+        "recall": 0.11487783875024438,
+        "f1Score": 0.08325248106948584
+    },
+    "loss: log_loss learningRate: 0.01 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11050022240343985,
+        "precision": 0.10338059889101003,
+        "recall": 0.11487783875024438,
+        "f1Score": 0.08325248106948584
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.1202238861294388,
+        "precision": 0.12460719941862379,
+        "recall": 0.12103918165074197,
+        "f1Score": 0.11647986786079519
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.1202238861294388,
+        "precision": 0.12460719941862379,
+        "recall": 0.12103918165074197,
+        "f1Score": 0.11647986786079519
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11689061457483878,
+        "precision": 0.11744264669780577,
+        "recall": 0.11881968753915106,
+        "f1Score": 0.1062021787878606
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11689061457483878,
+        "precision": 0.11744264669780577,
+        "recall": 0.11881968753915106,
+        "f1Score": 0.1062021787878606
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11962895692786715,
+        "precision": 0.1237601762092945,
+        "recall": 0.12041255913381484,
+        "f1Score": 0.1160675987690422
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11962895692786715,
+        "precision": 0.1237601762092945,
+        "recall": 0.12041255913381484,
+        "f1Score": 0.1160675987690422
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.12390095633479133,
+        "precision": 0.12326138945225285,
+        "recall": 0.12585621822864904,
+        "f1Score": 0.1140367660144507
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.12390095633479133,
+        "precision": 0.12326138945225285,
+        "recall": 0.12585621822864904,
+        "f1Score": 0.1140367660144507
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.1171880791756246,
+        "precision": 0.1206502149712246,
+        "recall": 0.11768342606192983,
+        "f1Score": 0.11272679344120592
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.1171880791756246,
+        "precision": 0.1206502149712246,
+        "recall": 0.11768342606192983,
+        "f1Score": 0.11272679344120592
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11537271109793165,
+        "precision": 0.11480217025988637,
+        "recall": 0.11722946162139003,
+        "f1Score": 0.10495397172090011
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11537271109793165,
+        "precision": 0.11480217025988637,
+        "recall": 0.11722946162139003,
+        "f1Score": 0.10495397172090011
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11962895692786715,
+        "precision": 0.1237601762092945,
+        "recall": 0.12041255913381484,
+        "f1Score": 0.1160675987690422
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11962895692786715,
+        "precision": 0.1237601762092945,
+        "recall": 0.12041255913381484,
+        "f1Score": 0.1160675987690422
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.12390095633479133,
+        "precision": 0.12326138945225285,
+        "recall": 0.12585621822864904,
+        "f1Score": 0.1140367660144507
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.12390095633479133,
+        "precision": 0.12326138945225285,
+        "recall": 0.12585621822864904,
+        "f1Score": 0.1140367660144507
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11748647045740974,
+        "precision": 0.12116005171655617,
+        "recall": 0.11771954871435031,
+        "f1Score": 0.1160351438690578
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11748647045740974,
+        "precision": 0.12116005171655617,
+        "recall": 0.11771954871435031,
+        "f1Score": 0.1160351438690578
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.12327730002224033,
+        "precision": 0.12723019442299538,
+        "recall": 0.12438211398261059,
+        "f1Score": 0.11897985183985793
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.12327730002224033,
+        "precision": 0.12723019442299538,
+        "recall": 0.12438211398261059,
+        "f1Score": 0.11897985183985793
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.114752761509378,
+        "precision": 0.1177584758816225,
+        "recall": 0.11598955407779674,
+        "f1Score": 0.11253061478516993
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.114752761509378,
+        "precision": 0.1177584758816225,
+        "recall": 0.11598955407779674,
+        "f1Score": 0.11253061478516993
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.12480169026614277,
+        "precision": 0.12487422170901954,
+        "recall": 0.1254625280297757,
+        "f1Score": 0.12004676379929005
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.12480169026614277,
+        "precision": 0.12487422170901954,
+        "recall": 0.1254625280297757,
+        "f1Score": 0.12004676379929005
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11688598116984208,
+        "precision": 0.120023326335379,
+        "recall": 0.11687128068020716,
+        "f1Score": 0.11480491104187882
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11688598116984208,
+        "precision": 0.120023326335379,
+        "recall": 0.11687128068020716,
+        "f1Score": 0.11480491104187882
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.12722866780339537,
+        "precision": 0.12977156730252887,
+        "recall": 0.1281885037841295,
+        "f1Score": 0.12224727277625198
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.12722866780339537,
+        "precision": 0.12977156730252887,
+        "recall": 0.1281885037841295,
+        "f1Score": 0.12224727277625198
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.114752761509378,
+        "precision": 0.1177584758816225,
+        "recall": 0.11598955407779674,
+        "f1Score": 0.11253061478516993
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.114752761509378,
+        "precision": 0.1177584758816225,
+        "recall": 0.11598955407779674,
+        "f1Score": 0.11253061478516993
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.12480169026614277,
+        "precision": 0.12487422170901954,
+        "recall": 0.1254625280297757,
+        "f1Score": 0.12004676379929005
+    },
+    "loss: log_loss learningRate: 0.1 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.12480169026614277,
+        "precision": 0.12487422170901954,
+        "recall": 0.1254625280297757,
+        "f1Score": 0.12004676379929005
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11809807991696937,
+        "precision": 0.11948914398444561,
+        "recall": 0.11843877024199645,
+        "f1Score": 0.11629590671110564
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11809807991696937,
+        "precision": 0.11948914398444561,
+        "recall": 0.11843877024199645,
+        "f1Score": 0.11629590671110564
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.1220577878271184,
+        "precision": 0.12486976824988691,
+        "recall": 0.1238826297867448,
+        "f1Score": 0.11807174429850517
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.1220577878271184,
+        "precision": 0.12486976824988691,
+        "recall": 0.1238826297867448,
+        "f1Score": 0.11807174429850517
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11384832085402923,
+        "precision": 0.11763665425944339,
+        "recall": 0.11364825867058245,
+        "f1Score": 0.11266666612799095
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11384832085402923,
+        "precision": 0.11763665425944339,
+        "recall": 0.11364825867058245,
+        "f1Score": 0.11266666612799095
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11993476165764698,
+        "precision": 0.12364349485272527,
+        "recall": 0.12031197019056894,
+        "f1Score": 0.11736821905581615
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11993476165764698,
+        "precision": 0.12364349485272527,
+        "recall": 0.12031197019056894,
+        "f1Score": 0.11736821905581615
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.1129271999406924,
+        "precision": 0.11564548809611148,
+        "recall": 0.1131459418238749,
+        "f1Score": 0.11139014756568599
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.1129271999406924,
+        "precision": 0.11564548809611148,
+        "recall": 0.1131459418238749,
+        "f1Score": 0.11139014756568599
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.12510100822892725,
+        "precision": 0.1269947313445265,
+        "recall": 0.1261193095691615,
+        "f1Score": 0.12078342163483675
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.12510100822892725,
+        "precision": 0.1269947313445265,
+        "recall": 0.1261193095691615,
+        "f1Score": 0.12078342163483675
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11384832085402923,
+        "precision": 0.11763665425944339,
+        "recall": 0.11364825867058245,
+        "f1Score": 0.11266666612799095
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11384832085402923,
+        "precision": 0.11763665425944339,
+        "recall": 0.11364825867058245,
+        "f1Score": 0.11266666612799095
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11993476165764698,
+        "precision": 0.12364349485272527,
+        "recall": 0.12031197019056894,
+        "f1Score": 0.11736821905581615
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 25 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11993476165764698,
+        "precision": 0.12364349485272527,
+        "recall": 0.12031197019056894,
+        "f1Score": 0.11736821905581615
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11627251834828375,
+        "precision": 0.11818019803480004,
+        "recall": 0.11733088875448146,
+        "f1Score": 0.11523542316804958
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11627251834828375,
+        "precision": 0.11818019803480004,
+        "recall": 0.11733088875448146,
+        "f1Score": 0.11523542316804958
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.12083827563199642,
+        "precision": 0.12382461579399755,
+        "recall": 0.12104176594440749,
+        "f1Score": 0.11922793942611362
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.12083827563199642,
+        "precision": 0.12382461579399755,
+        "recall": 0.12104176594440749,
+        "f1Score": 0.11922793942611362
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11141114982578397,
+        "precision": 0.11615334922218248,
+        "recall": 0.11155247014522081,
+        "f1Score": 0.11137939406606265
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11141114982578397,
+        "precision": 0.11615334922218248,
+        "recall": 0.11155247014522081,
+        "f1Score": 0.11137939406606265
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11415134554081104,
+        "precision": 0.11818904429630792,
+        "recall": 0.11361538177441652,
+        "f1Score": 0.11351704011767128
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 2 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11415134554081104,
+        "precision": 0.11818904429630792,
+        "recall": 0.11361538177441652,
+        "f1Score": 0.11351704011767128
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11170398102157313,
+        "precision": 0.11339934097683521,
+        "recall": 0.11323270847545897,
+        "f1Score": 0.11057127606966632
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11170398102157313,
+        "precision": 0.11339934097683521,
+        "recall": 0.11323270847545897,
+        "f1Score": 0.11057127606966632
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.12510564163392393,
+        "precision": 0.13206624086337287,
+        "recall": 0.12482215866368829,
+        "f1Score": 0.12517537037547316
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 1 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.12510564163392393,
+        "precision": 0.13206624086337287,
+        "recall": 0.12482215866368829,
+        "f1Score": 0.12517537037547316
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.001": {
+        "accuracy": 0.11141114982578397,
+        "precision": 0.11615334922218248,
+        "recall": 0.11155247014522081,
+        "f1Score": 0.11137939406606265
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 3 tolerance: 0.0001": {
+        "accuracy": 0.11141114982578397,
+        "precision": 0.11615334922218248,
+        "recall": 0.11155247014522081,
+        "f1Score": 0.11137939406606265
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.001": {
+        "accuracy": 0.11415134554081104,
+        "precision": 0.11818904429630792,
+        "recall": 0.11361538177441652,
+        "f1Score": 0.11351704011767128
+    },
+    "loss: log_loss learningRate: 0.2 n_estimator: 50 min_samples_split: 4 min_samples_leaf: 3 max_depth: 2 tolerance: 0.0001": {
+        "accuracy": 0.11415134554081104,
+        "precision": 0.11818904429630792,
+        "recall": 0.11361538177441652,
+        "f1Score": 0.11351704011767128
+    }
+}

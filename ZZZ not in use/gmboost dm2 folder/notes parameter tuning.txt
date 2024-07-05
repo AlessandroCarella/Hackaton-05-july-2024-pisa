@@ -1,0 +1,10 @@
+multiple test with various parameters, check the jupyters
+best results after first parameter tuining, same results in both 1 and 2 files
+"loss: log_loss learningRate: 0.1 n_estimator: 75 min_samples_split: 2 min_samples_leaf: 2 max_depth: 15 tolerance: 0.01": {
+        "accuracy": 0.1807545282412204,
+        "precision": 0.19879526361903635,
+        "recall": 0.16600504488063714,
+        "f1Score": 0.18724790849276787
+    },
+
+keep in mind the number of n_estimator
