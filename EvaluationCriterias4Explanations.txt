@@ -1,0 +1,13 @@
+CONTENT
+    * Correctness
+    * Completeness
+    * Continuity
+
+PRESENTATION
+    * Compactness
+    * Composition
+
+USER
+    * Context
+    * Coherence
+
