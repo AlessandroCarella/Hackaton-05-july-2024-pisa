@@ -25,7 +25,7 @@ def get_All ():
 
 
 def get_Datasets_With_25_Split():
-    df=pd.read_csv('../Dataset/datasetWithTarget.csv')
+    df=pd.read_csv('../Dataset/resampled_dataset.csv')
 
     train_cols = df.columns.difference(['customer_types', 'conversion'])
     X = df[train_cols] 
