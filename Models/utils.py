@@ -26,7 +26,7 @@ def get_All ():
 
 def get_Datasets_With_25_Split():
     df=pd.read_csv('../Dataset/datasetWithTarget.csv')
-    train_cols = df.columns.difference(['customer_types', 'conversion', 'offer'])
+    train_cols = df.columns.difference(['customer_types', 'conversion'])
     y = df[train_cols] 
     X = df['customer_types']
     X_train, X_test, Y_train, Y_test = train_test_split(X, y, test_size=0.25, random_state=12)
