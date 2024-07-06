@@ -1,0 +1,1 @@
+# In this folder there is the initial dataset and its various transformations that we used at each step of the development
