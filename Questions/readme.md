@@ -1,6 +1,6 @@
 # In this folder there is the code for each of the questions that we answered from the list of the Research Questions
 
-In this case we only answered question 3 with code and youc an find all the development in the file Question 3/main.ipynb file
+In this case we only answered question 3 with code and you can find all the development in the Question 3/main.ipynb file
 
 Research Questions answered:
 
